@@ -5,7 +5,7 @@
       <p class="f3">Verify Magic URL</p>
       <p>To complete this session, please verify your magic URL by clicking the verification button.</p>
         <button class="link br3 pv2 ph2 mt3 dib black fw6 bg-white ba b--navy pointer inline-flex items-center hover-bg-lightest-blue" @click="verifyMagicURL">
-          <span class="f4 ml2 pr2">Get magic URL</span>
+          <span class="f4 ml2 pr2">Verify magic URL</span>
         </button>
     </div>
   </div>
