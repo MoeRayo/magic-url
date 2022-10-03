@@ -23,7 +23,7 @@
         try {
           await account.updateMagicURLSession(userId, secret);
           alert("Magic URL verified")
-          window.location.href = '/dashboard'
+          window.location.href = '/landing'
 
         } catch (err){
           console.log(err)
