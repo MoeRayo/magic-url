@@ -1,4 +1,4 @@
-# appwrite-magic-url
+# Magic URL
 
 ## Build Setup
 
